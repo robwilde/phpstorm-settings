@@ -1,0 +1,139 @@
+<application>
+  <component name="WebServers">
+    <sftpAdvancedGlobalOptions>
+      <SftpAdvancedOptions hostKeyCheckingLevel="NO">
+        <option name="hostKeyCheckingLevel" value="NO" />
+      </SftpAdvancedOptions>
+    </sftpAdvancedGlobalOptions>
+    <option name="servers">
+      <webServer id="6a441a16-f630-411f-ba3c-86ca3657ba3e" name="itfe.edu.au" url="http://itfe.edu.au">
+        <fileTransfer host="103.81.161.249" port="22" rootFolder="/home/webdev/www/itfe" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="16c04274-11d7-451d-8a53-89bb696fc2dd" name="itfe-ptl.webdevstaging.net" url="http://itfe-ptl.webdevstaging.net">
+        <fileTransfer host="itfe-ptl.webdevstaging.net" port="22" privateKey="C:\Users\robert\.ssh\google_compute_engine" rootFolder="/home/robert/www/itfe-ptl.webdevstaging.net" accessType="SFTP" keyPair="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="9de47351-5491-4b7c-9bc5-a004b3f6dcde" name="dingo-pm.testing" url="http://dingo-pm.testing">
+        <fileTransfer host="dingo-pm.testing" port="22" rootFolder="/home/itadmin/www/dingo-pm.testing" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="3f9afbe8-81c1-4687-99ed-78df45ef4c07" name="build.itfe.edu.au" url="http://build.itfe.edu.au">
+        <fileTransfer host="build.itfe.edu.au" port="22" rootFolder="/home/itadmin/www/build.itfe.edu.au" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="39845b06-9e22-4d77-b625-6b0990617e00" name="92five.testing" url="http://92five.testing">
+        <fileTransfer host="92five.testing" port="22" rootFolder="/home/itadmin/www/92five.testing" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="effcfb17-3b3f-4471-a771-34847ec09cae" name="old-er.webdevstaging.net (1)" url="http://old-er.webdevstaging.net">
+        <fileTransfer host="old-er.webdevstaging.net" port="22" rootFolder="/home/itadmin/www/old-er.webdevstaging.net" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="2a3c8317-f6b3-4acc-bd2d-4aaab17734fd" name="paml.testing" url="http://paml.testing">
+        <fileTransfer host="paml.testing" port="22" rootFolder="/home/itadmin/www/paml.testing" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="98f086bb-b1ab-4ffa-81c9-e723d845f7f8" name="intersol.testing" url="http://intersol.testing">
+        <fileTransfer host="intersol.testing" port="22" rootFolder="/home/itadmin" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="728286ad-515f-487a-b595-ecdb40ef0361" name="civicrm.testing" url="http://civicrm.testing">
+        <fileTransfer host="civicrm.testing" port="22" rootFolder="/home/itadmin/www/civicrm.testing" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="c1ed29e0-6bb2-445c-bedf-1d9fa3da4c6c" name="wpplugin.testing" url="http://wpplugin.testing">
+        <fileTransfer host="wpplugin.testing" port="22" rootFolder="/home/itadmin/www/wpplugin.testing" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="f53478da-5a74-4971-b24c-82f1428d21be" name="intersol.net.au" url="http://intersol.net.au">
+        <fileTransfer host="intersol.net.au" port="22" rootFolder="/home/itadmin/www/intersol.net.au" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="17147938-9dbc-4e45-9757-c3b15d84677f" name="lareshomes.testing" url="http://lareshomes.testing">
+        <fileTransfer host="lareshomes.testing" port="22" rootFolder="/home/itadmin/www/lareshomes.testing" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="1fc9b419-bb1f-4d01-bf44-20799a4983d0" name="dev.eventrentals.com.au" url="http://dev.eventrentals.com.au">
+        <fileTransfer host="intersol.dev" port="22" rootFolder="/home/itadmin/www/dev.eventrentals.com.au" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="a586c496-1b64-42d0-93bf-f438c1c8a2e1" name="eventrentals.webdevstaging.site" url="http://eventrentals.webdevstaging.site">
+        <fileTransfer host="eventrentals.webdevstaging.site" port="22" rootFolder="/home/itadmin/www/eventrentals.webdevstaging.site" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="fdd3f1fe-8220-4709-8d8e-c1b22da6a6c4" name="paml.build" url="http://paml.build">
+        <fileTransfer host="paml.build" port="22" rootFolder="/home/itadmin/www/paml.build" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="b3352829-3423-4bdf-9bcd-5a97a91bf0f2" name="bookstore.dev" url="http://bookstore.dev">
+        <fileTransfer host="bookstore.dev" port="22" rootFolder="/home/itadmin/www/bookstore.dev" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</application>

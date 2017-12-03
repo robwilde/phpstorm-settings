@@ -1,0 +1,32 @@
+<application>
+  <component name="NodeJsLocalInterpreters">
+    <local-interpreter path="$USER_HOME$/scoop/apps/nvm/current/nodejs/nodejs/node.exe">
+      <version-cache version="6.12.0" last-modified="1511325161320" />
+      <npm-package value="$USER_HOME$/scoop/apps/nvm/current/nodejs/nodejs/node_modules/npm" />
+    </local-interpreter>
+  </component>
+  <component name="RecentTaskRepositories">
+    <Trello shared="false">
+      <commitMessageFormat>{id} {summary}</commitMessageFormat>
+      <option name="currentBoard">
+        <TrelloBoard id="59c256f3e4a93fb01aea7c6f" name="SupplyHub.io" />
+      </option>
+      <option name="currentList">
+        <TrelloList id="59c256f3e4a93fb01aea7c72" name="Stage 2: Development" />
+      </option>
+      <option name="currentUser">
+        <TrelloUser id="59bcb9e3e36632c57b96775e" name="robertwilde6" />
+      </option>
+      <password>dfc8df9edfcbdf9bdfcfdf9ddf9bdfc8df9adf98df9cdf9bdfc8df92df9adfcedf9adfcedf99df92dfcfdf9cdf98df9ddfccdfcbdf92dfcedf99dfcfdf99df9bdf98df98df92dfccdf98df9fdf9edfccdf92df93dfc8dfcbdfcedfcfdfc8df9ddf98df9ddf9bdf9bdfcfdf9ddf9cdf98df92df9ddf9fdf9fdfc9dfc9df99dfcc</password>
+      <option name="includeAllCards" value="true" />
+      <option name="loginAnonymously" value="false" />
+      <option name="preferredCloseTaskState" />
+      <option name="preferredOpenTaskState" />
+      <option name="shouldFormatCommitMessage" value="false" />
+      <option name="url" value="https://api.trello.com" />
+      <option name="useHttpAuthentication" value="false" />
+      <option name="useProxy" value="false" />
+      <username />
+    </Trello>
+  </component>
+</application>
