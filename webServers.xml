@@ -134,6 +134,14 @@
           <option name="port" value="22" />
         </fileTransfer>
       </webServer>
+      <webServer id="1b623702-0468-4505-9b1a-87c0c5111b34" name="wc-pep-booking.build" url="http://wc-pep-booking.build">
+        <fileTransfer host="wc-pep-booking.build" port="22" rootFolder="/home/itadmin/www/wc-pep-booking.build" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
     </option>
   </component>
 </application>
