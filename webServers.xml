@@ -142,6 +142,14 @@
           <option name="port" value="22" />
         </fileTransfer>
       </webServer>
+      <webServer id="c706ded7-66c2-4f4b-8f33-13757aa5ceea" name="caldera-plugin.build" url="http://caldera-plugin.build">
+        <fileTransfer host="caldera-plugin.build" port="22" rootFolder="/home/itadmin/www/caldera-plugin.build" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
     </option>
   </component>
 </application>
