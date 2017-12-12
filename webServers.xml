@@ -150,6 +150,14 @@
           <option name="port" value="22" />
         </fileTransfer>
       </webServer>
+      <webServer id="ef6135f2-473c-418c-9cb8-ec726ac3db96" name="mttr-sbibx.testing" url="http://mttr-sbibx.testing">
+        <fileTransfer host="mttr-sbibx.testing" port="22" rootFolder="/home/itadmin/www/mttr-sbibx.testing" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
     </option>
   </component>
 </application>
