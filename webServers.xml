@@ -6,14 +6,6 @@
       </SftpAdvancedOptions>
     </sftpAdvancedGlobalOptions>
     <option name="servers">
-      <webServer id="0c31204b-2aae-4932-b6ec-83533c09cfee" name="mttr-gsc.testing" url="http://mttr-gsc.testing">
-        <fileTransfer host="mttr-gsc.testing" port="22" rootFolder="/home/itadmin/www/mttr-gsc.testing" accessType="SFTP">
-          <advancedOptions>
-            <advancedOptions dataProtectionLevel="Private" />
-          </advancedOptions>
-          <option name="port" value="22" />
-        </fileTransfer>
-      </webServer>
       <webServer id="6a441a16-f630-411f-ba3c-86ca3657ba3e" name="itfe.edu.au" url="http://itfe.edu.au">
         <fileTransfer host="103.81.161.249" port="22" rootFolder="/home/webdev/www/itfe" accessType="SFTP">
           <advancedOptions>
