@@ -158,6 +158,9 @@
           <option name="port" value="22" />
         </fileTransfer>
       </webServer>
+      <webServer id="47b5f18c-7fa4-49f9-a8e2-917b3574904b" name="PEP Lando Build" url="http://build-pep.lndo.site">
+        <fileTransfer port="0" accessType="LOCAL" />
+      </webServer>
     </option>
   </component>
 </application>
