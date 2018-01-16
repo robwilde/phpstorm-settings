@@ -164,6 +164,9 @@
       <webServer id="fd91dfb7-79b4-46ac-a425-a52f0ad17fec" name="mttr-sbibx LANDO" url="http://mttr-sbibx.lndo.site">
         <fileTransfer port="0" accessType="LOCAL" />
       </webServer>
+      <webServer id="888b3711-0852-45c3-a431-98067f65f581" name="Laravel Essentials - Lynda" url="http://landon-app.lndo.site">
+        <fileTransfer port="0" accessType="LOCAL" />
+      </webServer>
     </option>
   </component>
 </application>
