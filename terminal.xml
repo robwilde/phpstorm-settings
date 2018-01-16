@@ -1,6 +1,6 @@
 <application>
   <component name="TerminalOptionsProvider">
-    <option name="myShellPath" value="bash" />
-    <option name="myTabName" value="WSL" />
+    <option name="myShellPath" value="&quot;cmd&quot; /k &quot;%CMDER_ROOT%\vendor\init.bat&quot;" />
+    <option name="myTabName" value="CMDER" />
   </component>
 </application>
