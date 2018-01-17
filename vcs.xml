@@ -6,6 +6,10 @@
           <option name="url" value="git@gitlab.mrwilde.solutions:ios/ktc-plugin.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://gitlab.mrwilde.solutions" />
+          <option name="userName" value="mrwilde" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="E:\projects\preapprovemyloan.com.au\testing\wp-content\plugins" />
