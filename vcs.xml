@@ -10,9 +10,13 @@
           <option name="url" value="http://gitlab.mrwilde.solutions" />
           <option name="userName" value="mrwilde" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://gitlab.mrwilde.solutions/matter-solutions/sbibx.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="E:\projects\preapprovemyloan.com.au\testing\wp-content\plugins" />
+    <option name="cloneParentDir" value="E:\projects\mttr-solutions\lando-mttr-sbibx\web\wp-content\plugins" />
   </component>
   <component name="Vcs.Log.App.Settings">
     <option name="MIGRATED" value="true" />
