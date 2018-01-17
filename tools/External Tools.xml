@@ -1,0 +1,9 @@
+<toolSet name="External Tools">
+  <tool name="Cmder" description="Terminal Tool" showInMainMenu="true" showInEditor="true" showInProject="true" showInSearchPopup="true" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
+    <exec>
+      <option name="COMMAND" value="C:\Users\robert\scoop\apps\cmder\current\Cmder.exe" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="E:/projects/mttr-solutions/lando-mttr-sbibx/web" />
+    </exec>
+  </tool>
+</toolSet>
