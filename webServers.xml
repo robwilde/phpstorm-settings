@@ -167,6 +167,14 @@
       <webServer id="888b3711-0852-45c3-a431-98067f65f581" name="Laravel Essentials - Lynda" url="http://landon-app.lndo.site">
         <fileTransfer port="0" accessType="LOCAL" />
       </webServer>
+      <webServer id="3d1be3bf-fc41-4883-aa6e-0973dc0cdd44" name="baha.webdevstaging.site" url="http://baha.webdevstaging.site">
+        <fileTransfer host="baha.webdevstaging.site" port="22" rootFolder="/home/itadmin/www/baha_com_au" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
     </option>
   </component>
 </application>
