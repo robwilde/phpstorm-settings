@@ -1,9 +1,9 @@
 <toolSet name="External Tools">
-  <tool name="Cmder" description="Terminal Tool" showInMainMenu="true" showInEditor="true" showInProject="true" showInSearchPopup="true" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
+  <tool name="Cmder" description="Terminal Tool" showInMainMenu="true" showInEditor="true" showInProject="true" showInSearchPopup="true" disabled="false" useConsole="false" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
     <exec>
-      <option name="COMMAND" value="C:\Users\robert\scoop\apps\cmder\current\Cmder.exe" />
+      <option name="COMMAND" value="&quot;cmd&quot; /k &quot;%CMDER_ROOT%\vendor\init.bat&quot; " />
       <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="E:/projects/mttr-solutions/lando-mttr-sbibx/web" />
+      <option name="WORKING_DIRECTORY" value="$USER_HOME$/scoop/apps/cmder/current" />
     </exec>
   </tool>
 </toolSet>
