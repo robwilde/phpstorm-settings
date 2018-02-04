@@ -3,7 +3,7 @@
     <exec>
       <option name="COMMAND" value="&quot;cmd&quot; /k &quot;%CMDER_ROOT%\vendor\init.bat&quot; " />
       <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$USER_HOME$/scoop/apps/cmder/current" />
+      <option name="WORKING_DIRECTORY" value="C:/Users/robert/scoop/apps/cmder/current" />
     </exec>
   </tool>
 </toolSet>
