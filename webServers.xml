@@ -6,14 +6,6 @@
       </SftpAdvancedOptions>
     </sftpAdvancedGlobalOptions>
     <option name="servers">
-      <webServer id="96729437-bf30-42e0-8d9b-cff56e91a75e" name="dakr-matter.webdevstaging.site" url="http://dark-matter.webdevstaging.site">
-        <fileTransfer host="dark-matter.webdevstaging.site" port="22" privateKey="C:\Users\robert\.ssh\google_compute_engine" rootFolder="/home/robert/www/dark-matter-webdevstaging-site" accessType="SFTP" keyPair="true">
-          <advancedOptions>
-            <advancedOptions dataProtectionLevel="Private" />
-          </advancedOptions>
-          <option name="port" value="22" />
-        </fileTransfer>
-      </webServer>
       <webServer id="6a441a16-f630-411f-ba3c-86ca3657ba3e" name="itfe.edu.au" url="http://itfe.edu.au">
         <fileTransfer host="103.81.161.249" port="22" rootFolder="/home/webdev/www/itfe" accessType="SFTP">
           <advancedOptions>
