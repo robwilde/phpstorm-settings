@@ -1,0 +1,9 @@
+<templateSet group="PHP">
+  <template name="pcd" value="PC::debug($VARIABLE$, '$DESC$');" description="PHP Console call to debug" toReformat="false" toShortenFQNames="true">
+    <variable name="VARIABLE" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="DESC" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="PHP" value="true" />
+    </context>
+  </template>
+</templateSet>
