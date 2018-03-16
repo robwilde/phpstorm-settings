@@ -6,6 +6,14 @@
       </SftpAdvancedOptions>
     </sftpAdvancedGlobalOptions>
     <option name="servers">
+      <webServer id="8db6e7b6-1ca0-4dda-a469-5d5c6bf53236" name="pep.webdevstaging.net [gCloud]" url="http://35.189.10.50">
+        <fileTransfer host="35.189.10.50" port="22" privateKey="C:\Users\robert\.ssh\google_compute_engine" rootFolder="/home/robert/www/pep.webdevstaging.site" accessType="SFTP" keyPair="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
       <webServer id="6a441a16-f630-411f-ba3c-86ca3657ba3e" name="itfe.edu.au" url="http://itfe.edu.au">
         <fileTransfer host="103.81.161.249" port="22" rootFolder="/home/webdev/www/itfe" accessType="SFTP">
           <advancedOptions>
