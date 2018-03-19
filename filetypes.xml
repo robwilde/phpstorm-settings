@@ -3,7 +3,6 @@
     <extensionMap>
       <mapping pattern="build" type="PHP" />
       <mapping pattern="craft" type="PLAIN_TEXT" />
-      <mapping ext="csv" type="PLAIN_TEXT" />
       <mapping ext="cnf" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
