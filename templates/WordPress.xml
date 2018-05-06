@@ -134,4 +134,14 @@
       <option name="PHP" value="true" />
     </context>
   </template>
+  <template name="wpjsd" value="$(function() {&#10;    &#10;});" description="wp javascript dom" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+    </context>
+  </template>
+  <template name="wpjsw" value="$(window).load(function(){&#10;    &#10;});" description="WP JavaScript Window" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+    </context>
+  </template>
 </templateSet>
