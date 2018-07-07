@@ -1,7 +1,7 @@
 <application>
   <component name="PhpCodeSniffer">
     <phpcs_settings>
-      <PhpCSConfiguration max_messages_per_file="100" standards="MySource;PEAR;PSR1;PSR2;Squiz;WordPress;WordPress-Core;WordPress-Docs;WordPress-Extra;WordPress-VIP;Zend" timeout="15000" tool_path="D:\DEV-TRAINING\WORDPRESS\WP-RIG\web\wp-content\themes\wprig\vendor\bin\phpcs.bat" />
+      <PhpCSConfiguration max_messages_per_file="100" standards="MySource;PEAR;PHPCompatibility;PSR1;PSR2;Squiz;WordPress;WordPress-Core;WordPress-Docs;WordPress-Extra;WordPress-VIP;Zend" timeout="15000" tool_path="D:\DEV-TRAINING\WORDPRESS\WP-RIG\web\wp-content\themes\wprig\vendor\bin\phpcs.bat" />
     </phpcs_settings>
   </component>
   <component name="PhpInterpreters">
