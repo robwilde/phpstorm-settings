@@ -1,9 +1,16 @@
 <toolSet name="External Tools">
-  <tool name="Cmder" description="Terminal Tool" showInMainMenu="true" showInEditor="true" showInProject="true" showInSearchPopup="true" disabled="false" useConsole="false" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
+  <tool name="phpcbf-single-file" description="Fix PHP Codesniffer warnings using PHPCBF" showInMainMenu="true" showInEditor="true" showInProject="true" showInSearchPopup="true" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
     <exec>
-      <option name="COMMAND" value="&quot;cmd&quot; /k &quot;%CMDER_ROOT%\vendor\init.bat&quot; " />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="C:/Users/robert/scoop/apps/cmder/current" />
+      <option name="COMMAND" value="D:\DEV-TRAINING\WORDPRESS\WP-RIG\web\wp-content\themes\wprig\vendor\bin\phpcbf.bat" />
+      <option name="PARAMETERS" value="--standard=WordPress-Core $FileDir$/$FileName$" />
+      <option name="WORKING_DIRECTORY" value="$ProjectFileDir$" />
+    </exec>
+  </tool>
+  <tool name="phpcbf-current-folder" description="Fix PHP Codesniffer warnings using phpcbf" showInMainMenu="true" showInEditor="true" showInProject="true" showInSearchPopup="true" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
+    <exec>
+      <option name="COMMAND" value="D:\DEV-TRAINING\WORDPRESS\WP-RIG\web\wp-content\themes\wprig\vendor\bin\phpcbf.bat" />
+      <option name="PARAMETERS" value="-standard=WordPress --extensions=php | $FileDir$" />
+      <option name="WORKING_DIRECTORY" value="$ProjectFileDir$" />
     </exec>
   </tool>
 </toolSet>
