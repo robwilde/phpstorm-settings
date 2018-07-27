@@ -1,12 +1,14 @@
 <application>
   <component name="MaterialThemeConfig">
-    <option name="version" value="2.6.1" />
-    <option name="selectedTheme" value="PALENIGHT" />
+    <option name="version" value="2.7.0" />
+    <option name="selectedTheme" value="DEEPOCEAN" />
     <option name="highlightColor" value="80cbc4" />
+    <option name="isContrastMode" value="true" />
     <option name="accentColor" value="c6ff00" />
     <option name="tabsHeight" value="50" />
     <option name="darkTitleBar" value="true" />
     <option name="userId" value="3d46d79c:163e2c3a8a6:-7fff" />
     <option name="allowDataCollection" value="true" />
+    <option name="overrideAccentColor" value="true" />
   </component>
 </application>
