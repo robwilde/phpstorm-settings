@@ -1,6 +1,6 @@
 <application>
   <component name="MaterialThemeConfig">
-    <option name="version" value="2.7.0" />
+    <option name="version" value="2.7.1" />
     <option name="selectedTheme" value="DEEPOCEAN" />
     <option name="highlightColor" value="80cbc4" />
     <option name="isContrastMode" value="true" />
@@ -10,5 +10,6 @@
     <option name="userId" value="3d46d79c:163e2c3a8a6:-7fff" />
     <option name="allowDataCollection" value="true" />
     <option name="overrideAccentColor" value="true" />
+    <option name="isWizardShown" value="true" />
   </component>
 </application>
