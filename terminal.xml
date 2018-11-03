@@ -1,6 +1,6 @@
 <application>
   <component name="TerminalOptionsProvider">
-    <option name="myShellPath" value="powershell.exe" />
-    <option name="myTabName" value="PS" />
+    <option name="myShellPath" value="C:\Program Files\PowerShell\6-preview\pwsh.exe" />
+    <option name="myTabName" value="PS6" />
   </component>
 </application>
