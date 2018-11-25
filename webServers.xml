@@ -4,6 +4,14 @@
       <webServer id="eee3294a-9c68-46ad-8490-a67f204529d9" name="NotesApp" url="http://localhost:8000">
         <fileTransfer port="0" accessType="LOCAL" />
       </webServer>
+      <webServer id="575c7c6b-64da-4da9-9f8c-22409b486425" name="webdevnuc" url="http://cityplex.com.au">
+        <fileTransfer host="cityplex.com.au" port="22" rootFolder="/home/itadmin/www/cityplex_com_au" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
     </option>
   </component>
 </application>
